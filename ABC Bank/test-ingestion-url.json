@@ -1,0 +1,1 @@
+{"datasource":{"name":"ABC Bank","sourceType":"JDBC","processingMode":"BATCH"},"tables":[{"name":"accountholder","schemaname":null,"table_type":"SCD0","incremental_cols":[],"data_delay_in_src":0,"partition_cols":[],"table_extra_options":{},"primary_key":[],"query":"SELECT * FROM accountholder"}]}
